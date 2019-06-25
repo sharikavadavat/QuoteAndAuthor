@@ -1,6 +1,6 @@
 # Quote And Author
 
-This is completed as part of a challenge to store the quotes by author from a website and uses Selenium, Java, TestNG and Maven 
+This is completed as part of a challenge to store the quotes by author and uses Selenium, Java, TestNG and Maven 
 
 ## Installation
 
